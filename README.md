@@ -150,3 +150,8 @@ As you can see, this is a "perfect job". Meaning, we can negotiate it.
 ### Which is that project that I would like to see grow up?
 Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
 I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
+
+### Something more?
+* I love 🍻
+* Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
+* I love traveling, a lot. Maybe more that I should love it :P
