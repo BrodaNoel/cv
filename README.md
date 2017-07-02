@@ -1,7 +1,7 @@
 # Broda Noel - CV
 _Curriculum Vitae_
 
-### Glad to work with
+## Glad to work with
 * React
 * JSX
 * Redux
@@ -12,27 +12,27 @@ _Curriculum Vitae_
 * AngularJS (but, I'm losing this love)
 * Sass
 
-### Things that I like, I use in my personal projects, but I'm not sure if I want to work with
-#### Because I prefer frontend:
+## Things I like, I use in my personal projects, but I'm not sure if I want to work with
+### Because I prefer frontend:
 * NodeJS
 * MySQL
 * MongoDB
 * React-Native
 
-#### Because I don't feel confident (yet) to work with:
+### Because I don't feel confident (yet) to work with:
 * Sagas
 * GraphQL / Relay
 
-### Languages
+## Languages
 * Spanish - Native speaker
 * English
   * Writing: I have no problems to chat and keep a written communication. In my last 6 years I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
   * Speaking & Linstening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but nothing that a cold Beer can not fix :shrug:
 
-### Contact
+## Contact
 Mail to brodanoel@gmail.com
 
-### Do you want to stalk a little bit?
+## Do you want to stalk a little bit?
 * GitHub #1: @BrodaNoel (for personal projects)
 * GitHub #2: @NoelBroda (to use in company where I work)
 * Medium: @BrodaNoel (a little bit about my last experiences)
@@ -43,7 +43,7 @@ Mail to brodanoel@gmail.com
 
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
-### A bit of my history
+## A bit of my history
 I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba", 320km far away!
 
 When I was 14 years old (year 2004), I started working in a "cyber" (those places where you pay for use a computer). That town, in that year, had NO internet, so, I was there, in the cyber, absolutely bored, looking of people went to the cyber to play some games.
@@ -83,7 +83,7 @@ This stack was super productive for me until 2017, moment where I found React an
 
 ^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
-### What I'm looking for?
+## What I'm looking for?
 I want to continue working in JavaScript, I want to code. I prefer frontend, but backend using Express + MongoDB (or non-relational-db) could be a good option.
 
 I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
@@ -103,12 +103,12 @@ So, summarizing, I want to code in JavaScript, in a solid small team, defining o
 
 As you can see, this is a "perfect job". Meaning, we can negotiate it.
 
-# How much time I spend coding?
+## How much time I spend coding?
 Well... This is something that I really want to highlight.
 
 After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding IN PERSONAL PROJECTS. All days. Including weekends. If you add the working hours coding, that number will be insane.
 
-### Full list of tech that I have dealt with (in my whole life, in chronological order)
+## Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
 * C
 * Bash
@@ -141,7 +141,7 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * React + Redux + Thunks + Reselect
 * Firebase
 
-### Some of my proud projects (all another projects are private :P )
+## Some of my proud projects (all another projects are private :P )
 * [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and those yerbas.
 * [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
@@ -154,11 +154,11 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * Agthy-Backed (private): The backend code for React-Agthy and Agthy-Site project.
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
 
-### Which is that project that I would like to see grow up?
+## Which is that project that I would like to see grow up?
 Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
 I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
 
-### Something more?
+## Something more?
 * I'm super sociable. My only concern is that sometimes the English block me, but that's an easy win-fix.
 * I love 🍻
 * Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
