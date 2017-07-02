@@ -97,9 +97,16 @@ If I have to define a perfect week in my perfect work, I would say:
 * Friday, same as Monday, finishing my day ~8PM (GTM+2).
 * Saturday and Sunday, if I have something pending to do, I have absolutely no problem to work in weekends. I told you, I love to Code, so work some weekends is not a problem for me (I work all my weekends! Right now is Sunday! 7PM (GTM-3) at a Starbucks in Argentina).
 
+As I said, I want to be traveling all the time, not only because I love to live in Hostels, know people and places, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months to improve my English quickly.
+
 So, summarizing, I want to code in JavaScript, in a solid small team, defining objectives for the week or some kind of Kanban/TODO-list, keeping us in sync by chat and video-calls, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
 
 As you can see, this is a "perfect job". Meaning, we can negotiate it.
+
+# How much time I spend coding?
+Well... This is something that I really want to highlight.
+
+After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding IN PERSONAL PROJECTS. All days. Including weekends. If you add the working hours coding, that number will be insane.
 
 ### Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
@@ -152,6 +159,7 @@ Oh yeah! This project has name, and some basic designs. Not published yet, but b
 I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
 
 ### Something more?
+* I'm super sociable. My only concern is that sometimes the English block me, but that's an easy win-fix.
 * I love 🍻
 * Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
 * I love traveling, a lot. Maybe more that I should love it :P
