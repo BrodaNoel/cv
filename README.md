@@ -99,7 +99,7 @@ So, summarizing, I want to code in JavaScript, in a solid small team, defining o
 
 As you can see, this is a "perfect job". Meaning, we can negotiate it.
 
-### Full list of tech that I deal in my life (in chronological order)
+### Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
 * C
 * VB .NET
