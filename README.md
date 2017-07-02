@@ -42,7 +42,7 @@ Mail to brodanoel@gmail.com
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
 ### A bit of my history
-I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that.
+I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba", 320km far away!
 
 When I was 14 years old (year 2004), I started working in a "cyber" (those places where you pay for use a computer). That town, in that year, had NO internet, so, I was there, in the cyber, absolutely bored, looking of people went to the cyber to play some games.
 
@@ -51,3 +51,32 @@ After some months working in that cyber, one day I found a book, a really large 
 Due to in ~2000 (~10 years old) I created some CS-Maps using [Valve Hammer Editor](valve.png), I had some basic knowledge about abstractions, so that help me a lot to understand that "C++ programing" thing, so, I could start creating things with no help. Absolutely alone in my home. After a couple of days I had my own ".exe" file that when you opened it, it asked your name, and then it said "Hello {name}!". That was my first approach to the programming world. My first Hello World. And that was my first second in my bigger passion.
 
 Anecdote: I guess my love for the programming world started the day I say: "What if I create a virus?". I created a program that when you execute it, it remove your `C:/Files Programs/Internet Explorer/iexplorer.exe`. I runned it and it works! And that was not a problem until I get internet in my home (~year 2005) (yeah because I had no Internet Explorer! I had no way to navigate. Obviously I didn't created a backup of `iexplorer.exe`, I was not smart as I should, but, well, it was funny).
+
+More or less in the year 2006 I started participate in some internet forums. One of them was "csadvanced.com" (aka redee.com or wikun.com), there I learned A LOT of a lot of things. I learned about abstractions, logic, about english, about work remotely, and more things. I also learned about AdSense. There I understood that I could get money creating blogs and adding AdSense as a f*ck! And I did it! I created some blogpost about technology news and that was my first attempt, my first approach to HTML and Web-stufs. I learned a lot of SEO and HTML. That was the trigger to start learning PHP. I started learning PHP and VB.net at the same time.
+
+Wow! I just realized that Softonic saved my first VB.net program yet! That was [VIDay](https://viday.softonic.com/)! A software to check ephemerides. I'm super proud about VIDay.
+
+From 2007 to 2010 I was working creating PHP sites and VB.NET programs just for fun. But then, in 2010, I started working on the IT World.
+My first work was at [UTN University](http://www.frc.utn.edu.ar/), doing backend in VB.NET and frontend using Vanilla JavaScript and jQuery.
+
+From 2010 to 2015 I always worked in personal (and freelance) projects using always the same technologies (creating and setting up absolutely everything on my own).
+* Debian
+* SVN
+* Apache
+* PHP (With no frameworks!)
+* Javascript/jQuery as frontend
+
+Then, I left my happy PHP-life (yeah, for real. I love PHP) and I started working using another stack:
+* Ubuntu server (setting it up using Vagrant)
+* Sometimes SVN, and sometimes GIT
+* Apache
+* NodeJS + Express + MongoDB
+* AngularJS
+
+This stack was super productive for me until 2017, moment where I found React and Firebase. So now, my stack for personal projects has this shape:
+* GIT
+* Firebase Hosting for static serving
+* Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
+* React (+JSX) + Redux + Thunks + Reselect as frontend
+
+^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & No-Relational-DB (like Mongo). Full ECMAScript stack.
