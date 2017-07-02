@@ -113,10 +113,12 @@ As you can see, this is a "perfect job". Meaning, we can negotiate it.
 * Oracle
 * CSS
 * JavaScript
+* SVN
 * C# .NET + MVC .NET
 * Java
 * Assembler (yeah, I created some micro projects and put it inside a PIC16F84A, just to play with some LEDs)
 * jQuery
+* GIT
 * AngularJS
 * Sass
 * Vagrant
