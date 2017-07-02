@@ -102,17 +102,22 @@ As you can see, this is a "perfect job". Meaning, we can negotiate it.
 ### Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
 * C
+* Bash
 * VB .NET
 * SQL Server (Microsoft)
 * HTML
 * PHP
 * MySQL
+* Debian
+* Ubuntu Server
 * Oracle
 * CSS
 * JavaScript
 * C# .NET + MVC .NET
 * jQuery
 * AngularJS
+* Sass
+* Vagrant
 * MariaDB
 * NodeJS
 * Express
@@ -121,3 +126,16 @@ As you can see, this is a "perfect job". Meaning, we can negotiate it.
 * React-Native
 * React + Redux + Thunks + Reselect
 * Firebase
+
+### Some of my proud projects (all another projects are private :P )
+* [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and those yerbas.
+* [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
+* [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
+* [Bropy](https://github.com/BrodaNoel/bropy): Project adminsitrator to create generic drivers for RaspberryPi components. F*cking funny project!
+* RPDF (private): Too ugly code to be shown in Github :P Created to create tabulated data reports in PDF file. You just call a function with a SQL string, and all the PDF file will be magically created with all the tabulated data :O Yeah, awesome, but that PHP code is so f*cking ugly. ([screenshot](./rpdf.png))
+* Twibro (private): Project full of Node and MongoDB. Using Twitter API to look for tweets with geolocation, useful to understand where is the people that is tweeting about some hashtag. ([screenshot](./twibro.png))
+* [MySQL-Server](https://github.com/BrodaNoel/mysql-server): Standalone MySQL Server, but only for Windows users. Published in NPM.
+* [Animate5](https://github.com/BrodaNoel/animate5): So ugly code, but so proud. One of my firsts Vanilla Javascript projects. I did it to understand better the Canvas 2D context. Check it out! Open that `index.html` and move that guy!
+* Agthy-Site (private): www.agthy.com (the site for React-Agthy project)
+* Agthy-Backed (private): The backend code for React-Agthy and Agthy-Site project.
+* [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
