@@ -146,3 +146,7 @@ As you can see, this is a "perfect job". Meaning, we can negotiate it.
 * Agthy-Site (private): www.agthy.com (the site for React-Agthy project)
 * Agthy-Backed (private): The backend code for React-Agthy and Agthy-Site project.
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
+
+### Which is that project that I would like to see grow up?
+Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
+I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
