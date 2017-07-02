@@ -79,4 +79,45 @@ This stack was super productive for me until 2017, moment where I found React an
 * Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
 * React (+JSX) + Redux + Thunks + Reselect as frontend
 
-^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & No-Relational-DB (like Mongo). Full ECMAScript stack.
+^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
+
+### What I'm looking for?
+I want to continue working in JavaScript, I want to code. I prefer frontend, but backend using Express + MongoDB (or non-relational-db) could be a good option.
+
+I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
+
+If I have to define a perfect week in my perfect work, I would say:
+* Working at a USA company, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. While working, traveling in Europe
+* Monday morning sightseeing, lunch and then start working ~2PM (GTM+2) until 10PM (GTM+2).
+* Tuesday, I want to spend the whole day free, so I asked to my team if they agree I can take my day free, and they have absolutely no problem about it :)
+* Wednesday, working hard, double harder, from 2PM (GTM+2) to 10PM (GTM+2), recovering the free Tuesday.
+* Thursday, same as Monday
+* Friday, same as Monday, finishing my day ~8PM (GTM+2).
+* Saturday and Sunday, if I have something pending to do, I have absolutely no problem to work in weekends. I told you, I love to Code, so work some weekends is not a problem for me (I work all my weekends! Right now is Sunday! 7PM (GTM-3) at a Starbucks in Argentina).
+
+So, summarizing, I want to code in JavaScript, in a solid small team, defining objectives for the week or some kind of Kanban/TODO-list, keeping us in sync by chat and video-calls, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
+
+As you can see, this is a "perfect job". Meaning, we can negotiate it.
+
+### Full list of tech that I deal in my life (in chronological order)
+* 3D modeling
+* C
+* VB .NET
+* SQL Server (Microsoft)
+* HTML
+* PHP
+* MySQL
+* Oracle
+* CSS
+* JavaScript
+* C# .NET + MVC .NET
+* jQuery
+* AngularJS
+* MariaDB
+* NodeJS
+* Express
+* MongoDB
+* React
+* React-Native
+* React + Redux + Thunks + Reselect
+* Firebase
