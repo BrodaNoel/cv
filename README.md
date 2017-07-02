@@ -33,11 +33,13 @@ _Curriculum Vitae_
 Mail to brodanoel@gmail.com
 
 ### Do you want to stalk a little bit?
-* Github: I have 2 Github acocunts: One (this one: @BrodaNoel) is for my personal projects, and another one (@NoelBroda) to use in company where I work
+* GitHub #1: @BrodaNoel (for personal projects)
+* GitHub #2: @NoelBroda (to use in company where I work)
+* Medium: @BrodaNoel (a little bit about my last experiences)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
 * Facebook: @BrodaNoel (a little bit about me)
 * Spotify: @BrodaNoel (a little bit about music I like) (and I like music a lot)
-* Tinder: ... Nah, just kidding.
+* Tinder: ... Nah, just kidding :D
 
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
