@@ -103,6 +103,12 @@ So, summarizing, I want to code in JavaScript, in a solid small team, defining o
 
 As you can see, this is a "perfect job". Meaning, we can negotiate it.
 
+## What I offer you?
+As you can see I'm looking for a "perfect job", so I have to give you something to let you know that "me" is what you need. This is what I offer:
+
+**One week coding "for free"**. If after that week you feel that I was productive and I added value to your project and I worth it, you pay me that week, you define a final $ proposal and let's negotiate about it. In another hand, if you feel I'm not worth it, **you don't pay me**.
+Obviously this free week will help me to see if I really like to work in your company, so it's a win-win.
+
 ## How much time I spend coding?
 Well... This is something that I really want to highlight.
 
