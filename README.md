@@ -29,7 +29,7 @@ It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist
 * Spanish - Native speaker
 * English
   * Writing: I have no problems to chat and keep a written communication. In my last 6 years I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
-  * Speaking & Linstening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but nothing that a cold Beer can not fix :shrug:
+  * Speaking & Listening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but nothing that a cold Beer can not fix :shrug:
 
 ## Contact
 Mail to brodanoel@gmail.com
@@ -147,8 +147,6 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * Firebase
 
 ## Some of my proud projects (all another projects are private :P )
-* [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and those yerbas.
-* [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
 * [Bropy](https://github.com/BrodaNoel/bropy): Project adminsitrator to create generic drivers for RaspberryPi components. F*cking funny project!
 * RPDF (private): Too ugly code to be shown in Github :P Created to create tabulated data reports in PDF file. You just call a function with a SQL string, and all the PDF file will be magically created with all the tabulated data :O Yeah, awesome, but that PHP code is so f*cking ugly. ([screenshot](./rpdf.png))
@@ -157,7 +155,10 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * [Animate5](https://github.com/BrodaNoel/animate5): So ugly code, but so proud. One of my firsts Vanilla Javascript projects. I did it to understand better the Canvas 2D context. Check it out! Open that `index.html` and move that guy!
 * Agthy-Site (private): www.agthy.com (the site for React-Agthy project)
 * Agthy-Backed (private): The backend code for React-Agthy and Agthy-Site project.
+* [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and those yerbas.
+* [Firebase-Test](https://github.com/BrodaNoel/firebase-tests): In progress. Project created just to improve knowledge in Firebase.
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
+* [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
 
 ## Which is that project that I would like to see grow up?
 Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
