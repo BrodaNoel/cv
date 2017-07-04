@@ -1,6 +1,8 @@
 # Broda Noel - CV
 _Curriculum Vitae_
 
+It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist/17HYiAIcwlDEg5RgVkm4L7) Spotify playlist while reading this CV :D
+
 ## Glad to work with
 * React
 * JSX
