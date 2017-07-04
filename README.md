@@ -88,20 +88,14 @@ I want to continue working in JavaScript, I want to code. I prefer frontend, but
 
 I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
 
-If I have to define a perfect week in my perfect work, I would say:
-* Working at a USA company, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. While working, traveling in Europe
-* Monday morning sightseeing, lunch and then start working ~2PM (GTM+2) until 10PM (GTM+2).
-* Tuesday, I want to spend the whole day free, so I asked to my team if they agree I can take my day free, and they have absolutely no problem about it :)
-* Wednesday, working hard, double harder, from 2PM (GTM+2) to 10PM (GTM+2), recovering the free Tuesday.
-* Thursday, same as Monday
-* Friday, same as Monday, finishing my day ~8PM (GTM+2).
-* Saturday and Sunday, if I have something pending to do, I have absolutely no problem to work in weekends. I told you, I love to Code, so work some weekends is not a problem for me (I work all my weekends! Right now is Sunday! 7PM (GTM-3) at a Starbucks in Argentina).
+My dream work is in a company from USA, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. While working, traveling in Europe.
+Flexible hours and flexible days. We define objectives in the sprint or the week, and I'll do everything I can do to accomplish them.
 
-As I said, I want to be traveling all the time, not only because I love to live in Hostels, know people and places, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months to improve my English quickly.
+As I said, I want to be traveling all the time, not only because I love to live in hostels, know people and places, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months (maybe in the company offices) to improve my English.
 
-So, summarizing, I want to code in JavaScript, in a solid small team, defining objectives for the week or some kind of Kanban/TODO-list, keeping us in sync by chat and video-calls, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
+So, summarizing, I want to code in JavaScript, in a solid small team, with people that love coding (< this is important!), defining objectives for the week, sprint, or some kind of Kanban/TODO-list, keeping the team in sync by chat and video-calls, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
 
-As you can see, this is a "perfect job". Meaning, we can negotiate it.
+As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
 
 ## What I offer you?
 As you can see I'm looking for a "perfect job", so I have to give you something to let you know that "me" is what you need. This is what I offer:
