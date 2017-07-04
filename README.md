@@ -165,3 +165,4 @@ I love this kind of games, and I want mine game. I hope to give you more details
 * I love 🍻
 * Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
 * I love traveling, a lot. Maybe more that I should love it :P
+* Sometimes I take courage and give tech talks ([React + Firebase (hosting & authentication) live demo](firebase.jpg)).
