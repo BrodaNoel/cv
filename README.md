@@ -160,6 +160,11 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
 * [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
 
+## Some open-source libraries
+* [SVG-2-image](https://github.com/BrodaNoel/svg-2-image): Export a SVG html element as a image.
+* [D3-to-image](https://github.com/BrodaNoel/d3-to-image): Implementation of `svg-2-image` dedicated to D3 in AngularJS (and more... I'll be adding more libraries in a future).
+* [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Just check it out working in www.devseverywhere.com
+
 ## Which is that project that I would like to see grow up?
 Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
 I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
