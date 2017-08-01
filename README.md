@@ -32,11 +32,13 @@ It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist
   * Speaking & Listening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but nothing that a cold Beer can not fix :shrug:
 
 ## Contact
-Mail to brodanoel@gmail.com
+Mail to brodanoel@gmail.com.
+
+Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. If not, I'll move the email to SPAM folder (but, before doing it, I'll read it).
 
 ## Do you want to stalk a little bit?
 * GitHub #1: @BrodaNoel (for personal projects)
-* GitHub #2: @NoelBroda (to use in company where I work)
+* GitHub #2: @NoelBroda (to use in the company where I work)
 * Medium: @BrodaNoel (a little bit about my last experiences)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
 * Facebook: @BrodaNoel (a little bit about me)
@@ -46,7 +48,7 @@ Mail to brodanoel@gmail.com
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
 ## A bit of my history
-I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba", 320km far away!
+I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba", 320km far away! That was the `Jan 21, 1990`.
 
 When I was 14 years old (year 2004), I started working in a "cyber" (those places where you pay for use a computer). That town, in that year, had NO internet, so, I was there, in the cyber, absolutely bored, looking of people went to the cyber to play some games.
 
