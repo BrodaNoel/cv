@@ -90,16 +90,29 @@ I want to continue working in JavaScript, I want to code. I prefer frontend, but
 
 I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
 
-My dream work is in a company from USA, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. While working, traveling in Europe.
+My dream work is in a company from USA, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. Traveling while I'm working.
 Flexible hours and flexible days. We define objectives in the sprint or the week, and I'll do everything I can do to accomplish them.
 
-As I said, I want to be traveling all the time, not only because I love to live in hostels, know people and places, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months (maybe in the company offices) to improve my English.
+As I said, I want to be traveling all the time, not only because I love to live in hostels, meet people and cities, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months (maybe in the company offices) to improve my English.
 
-So, summarizing, I want to code in JavaScript, in a solid small team, with people that love coding (< this is important!), defining objectives for the week, sprint, or some kind of Kanban/TODO-list, keeping the team in sync by chat and video-calls, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
+So, summarizing, I want to code in JavaScript, in a solid small team, with people that love coding (< this is important!), defining objectives for the week/sprint, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
 
 As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
 
-## What I offer you?
+## What will I ask in a interview?
+* Can you describe your company culture? Which are its more-important-values? Why will I love to work in your company?
+* Is your company an StartUp? How many people are working there?
+* How many people will have my team?
+* The company has the own product, or it's creating software for someone else? B2B?
+* How will you measure my performance?
+* How is the usual development process? Is there a UI, UX, Researcher, DevOps, etc. teams?
+* Which development methodologies are using? Scrum? LEAN?
+* Which technologies is using the team where I'll work?
+* Which technologies use frontend? And backend?
+* Is there a monster? (those ugly-legacy-projects that nobody wants to touch). Will I work on it? Which technologies are using there?
+* What kind of tasks will I be working? Bug-fixing? New Features?
+
+## What do I offer?
 As you can see I'm looking for a "perfect job", so I have to give you something to let you know that "me" is what you need. This is what I offer:
 
 **One week coding "for free"**. If after that week you feel that I was productive, I added value to your project, I fit with your company culture, and I worth it, you pay me that week, then you define a final $ proposal and let's negotiate about it.
@@ -110,7 +123,7 @@ Obviously this free week will help me to see if I really like to work in your co
 ## How much time I spend coding?
 Well... This is something that I really want to highlight.
 
-After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding IN PERSONAL PROJECTS. All days. Including weekends. If you add the working hours coding, that number will be insane.
+After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding in personal projects. All days. If you add the working hours coding, that number will be insane.
 
 ## Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
@@ -171,7 +184,7 @@ I love this kind of games, and I want mine game. I hope to give you more details
 
 ## Something more?
 * I'm super sociable. My only concern is that sometimes the English block me, but that's an easy win-fix.
-* I love 🍻
+* #trekking, #beer, #snowboard, #diving, 
 * Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
 * I love traveling, a lot. Maybe more that I should love it :P
 * Sometimes I take courage and give tech talks ([React + Firebase (hosting & authentication) live demo](firebase.jpg)).
