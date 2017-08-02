@@ -7,6 +7,7 @@ It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist
 * React
 * JSX
 * Redux
+* Flow
 * Thunks
 * Reselect
 * Firebase
@@ -158,7 +159,7 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * RaspberryPi (This Rocks!)
 * React
 * React-Native
-* React + Redux + Thunks + Reselect
+* React + Redux + Thunks + Reselect + Flow
 * Firebase
 
 ## Some of my proud projects (all another projects are private :P )
