@@ -162,6 +162,7 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * React-Native
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
+* Flow
 
 ## Some of my proud projects (all another projects are private :P )
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
