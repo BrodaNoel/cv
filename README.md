@@ -149,6 +149,7 @@ After my first line of code, I spend my whole life doing it. I just spend a coup
 * jQuery
 * GIT
 * AngularJS
+* PhantomJS + Karma + Jasmine + Cucumber, and the whole E2E/functional-test suite
 * Sass
 * Three.js
 * Vagrant
