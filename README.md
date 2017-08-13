@@ -128,6 +128,15 @@ Well... This is something that I really want to highlight.
 
 After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding in personal projects. All days. If you add the working hours coding, that number will be insane.
 
+## Places where I worked?
+* Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
+* CIDS UTN. ~2 years working as .NET developer, doing frontend stufs. (It's kind of software factory, inside a university)
+* Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
+* Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working at Disney projects.
+* Olapic. ~2 years (currenlty working). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working in the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
+
+So, as you can see, I worked at University, Government, Huge public company and Startups.
+
 ## Full list of tech that I have dealt with (in my whole life, in chronological order)
 * 3D modeling
 * C
