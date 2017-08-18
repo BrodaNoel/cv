@@ -49,7 +49,7 @@ Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposa
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
 ## A bit of my history
-I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba", 320km far away! That was the `Jan 21, 1990`.
+I grow up in a really really really little town. Yes, little. Just 800 habitants. Just that. And the closer city of my town is "Cordoba" (Argentina), 320km far away! That was the `Jan 21, 1990`.
 
 When I was 14 years old (year 2004), I started working in a "cyber" (those places where you pay for use a computer). That town, in that year, had NO internet, so, I was there, in the cyber, absolutely bored, looking of people went to the cyber to play some games.
 
