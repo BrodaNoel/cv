@@ -3,6 +3,18 @@ _Curriculum Vitae_
 
 It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist/17HYiAIcwlDEg5RgVkm4L7) Spotify playlist while reading this CV :D
 
+## What I'm looking for?
+I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
+
+My dream work is in a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. Traveling while I'm working.
+Flexible hours and flexible days. We define objectives in the sprint or the week, and I'll do everything I can do to accomplish them.
+
+I want to code in JavaScript, in a team with people that love coding (< this is important!), defining objectives for the week/sprint, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
+
+As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
+
+> Note: I want to continue working in JavaScript. I prefer frontend, but backend using Express could be a good option.
+
 ## Glad to work with
 * React
 * JSX
@@ -15,22 +27,11 @@ It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist
 * AngularJS (but, I'm losing this love)
 * Sass
 
-## Things I like, I use in my personal projects, but I'm not sure if I want to work with
-### Because I prefer frontend:
-* NodeJS
-* MySQL
-* MongoDB
-* React-Native
-
-### Because I don't feel confident (yet) to work with:
-* Sagas
-* GraphQL / Relay
-
 ## Languages
 * Spanish - Native speaker
 * English
   * Writing: I have no problems to chat and keep a written communication. In my last 6 years I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
-  * Speaking & Listening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but nothing that a cold Beer can not fix :shrug:
+  * Speaking & Listening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but not a big deal.
 
 ## Contact
 Mail to brodanoel@gmail.com.
@@ -87,20 +88,6 @@ This stack was super productive for me until 2017, moment where I found React an
 * React (+JSX) + Redux + Thunks + Reselect as frontend
 
 ^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
-
-## What I'm looking for?
-I want to continue working in JavaScript, I want to code. I prefer frontend, but backend using Express + MongoDB (or non-relational-db) could be a good option.
-
-I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
-
-My dream work is in a company from USA, a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. Traveling while I'm working.
-Flexible hours and flexible days. We define objectives in the sprint or the week, and I'll do everything I can do to accomplish them.
-
-As I said, I want to be traveling all the time, not only because I love to live in hostels, meet people and cities, but also because I want and I need to live in non-Spanish countries to learn English. So, I'll be really happy to work in USA for a couple of months (maybe in the company offices) to improve my English.
-
-So, summarizing, I want to code in JavaScript, in a solid small team, with people that love coding (< this is important!), defining objectives for the week/sprint, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
-
-As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
 
 ## What will I ask in a interview?
 * Can you describe your company culture? Which are its more-important-values? Why will I love to work in your company?
