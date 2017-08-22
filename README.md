@@ -24,7 +24,7 @@ As you can see, this is a "perfect job". Meaning, you can offer something that d
 * Reselect
 * Firebase
 * Webpack
-* AngularJS (but, I'm losing this love)
+* AngularJS (1.x) (but, I'm losing this love)
 * Sass
 
 ## Languages
