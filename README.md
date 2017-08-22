@@ -1,15 +1,10 @@
 # Broda Noel - CV
-_Curriculum Vitae_
-
-It's recommended to listen to [this](https://open.spotify.com/user/iam3/playlist/17HYiAIcwlDEg5RgVkm4L7) Spotify playlist while reading this CV :D
 
 ## What I'm looking for?
 I want to travel, I want to work and travel at the same time, working remotely, 100% remotely.
 
-My dream work is in a StartUp (preferably), with people that really love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding. Traveling while I'm working.
-Flexible hours and flexible days. We define objectives in the sprint or the week, and I'll do everything I can do to accomplish them.
-
-I want to code in JavaScript, in a team with people that love coding (< this is important!), defining objectives for the week/sprint, working remotely, and flexible (with no hard rules like "You have to be in all our Daily Meetings").
+I prefer to work in a StartUp, with people that love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding.
+I want to travel while I'm working. Flexible hours and flexible days will be a must. I want to manage my own schedule.
 
 As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
 
@@ -41,8 +36,8 @@ Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposa
 ## Do you want to stalk a little bit?
 * GitHub #1: @BrodaNoel (for personal projects)
 * GitHub #2: @NoelBroda (to use in the company where I work)
-* Medium: @BrodaNoel (a little bit about my last experiences)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
+* Medium: @BrodaNoel (a little bit about my last experiences)
 * Facebook: @BrodaNoel (a little bit about me)
 * Spotify: @BrodaNoel (a little bit about music I like)
 
@@ -132,7 +127,7 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
 
-## Some of my proud projects (all another projects are private :P )
+## Some of my proud projects (all another projects are private :P)
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
 * [Bropy](https://github.com/BrodaNoel/bropy): Project adminsitrator to create generic drivers for RaspberryPi components. F*cking funny project!
 * RPDF (private): Too ugly code to be shown in Github :P Created to create tabulated data reports in PDF file. You just call a function with a SQL string, and all the PDF file will be magically created with all the tabulated data :O Yeah, awesome, but that PHP code is so f*cking ugly. ([screenshot](./rpdf.png))
@@ -158,4 +153,6 @@ I love this kind of games, and I want my game. I hope to give you more details h
 * #trekking, #beer, #snowboard, #diving,
 * Music: I love The Smiths, 60ish, 70ish and 80ish.
 * I love traveling, a lot.
-* Sometimes I take courage and give tech talks ([React + Firebase (hosting & authentication) live demo](firebase.jpg) and [React + Fiber (What's new?) live demo](react-fiber.jpg)).
+* Sometimes I take courage and give tech talks
+  * [React + Firebase (hosting & authentication) live demo](firebase.jpg)
+  * [React + Fiber (What's new?)](react-fiber.jpg)
