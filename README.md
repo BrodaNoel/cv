@@ -24,7 +24,7 @@ As you can see, this is a "perfect job". Meaning, you can offer something that d
 * Reselect
 * Firebase
 * Webpack
-* AngularJS (1.x) (but, I'm losing this love)
+* AngularJS (1.x) (no experience in Angular > 1, but, it could be an option)
 * Sass
 
 ## Languages
@@ -44,8 +44,7 @@ Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposa
 * Medium: @BrodaNoel (a little bit about my last experiences)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
 * Facebook: @BrodaNoel (a little bit about me)
-* Spotify: @BrodaNoel (a little bit about music I like) (and I like music a lot)
-* Tinder: ... Nah, just kidding :D
+* Spotify: @BrodaNoel (a little bit about music I like)
 
 Yeah... You can find me in everyplace just looking for "BrodaNoel".
 
@@ -89,30 +88,12 @@ This stack was super productive for me until 2017, moment where I found React an
 
 ^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
-## What will I ask in a interview?
-* Can you describe your company culture? Which are its more-important-values? Why will I love to work in your company?
-* Is your company an StartUp? How many people are working there?
-* How many people will have my team?
-* The company has the own product, or it's creating software for someone else? B2B?
-* How will you measure my performance?
-* How is the usual development process? Is there a UI, UX, Researcher, DevOps, etc. teams?
-* Which development methodologies are using? Scrum? LEAN?
-* Which technologies is using the team where I'll work?
-* Which technologies use frontend? And backend?
-* Is there a monster? (those ugly-legacy-projects that nobody wants to touch). Will I work on it? Which technologies are using there?
-* What kind of tasks will I be working? Bug-fixing? New Features?
-
-## How much time I spend coding?
-Well... This is something that I really want to highlight.
-
-After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding in personal projects. All days. If you add the working hours coding, that number will be insane.
-
 ## Companies where I worked?
 * Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
 * CIDS UTN. ~2 years working as .NET developer, doing frontend stufs. (It's kind of software factory, inside a university)
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
 * Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working at Disney projects.
-* Olapic. ~2 years (currenlty working). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working in the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
+* Olapic. ~2 years (currenlty working here). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working in the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
 
 So, as you can see, I worked at University, Government, Huge public company and Startups.
 
@@ -150,7 +131,6 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * React-Native
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
-* Flow
 
 ## Some of my proud projects (all another projects are private :P )
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished.
@@ -165,19 +145,17 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * [Firebase-Test](https://github.com/BrodaNoel/firebase-tests): In progress. Project created just to improve knowledge in Firebase.
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
 * [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
-
-## Some open-source libraries
 * [SVG-2-image](https://github.com/BrodaNoel/svg-2-image): Export a SVG html element as a image.
 * [D3-to-image](https://github.com/BrodaNoel/d3-to-image): Implementation of `svg-2-image` dedicated to D3 in AngularJS (and more... I'll be adding more libraries in a future).
 * [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Just check it out working in www.devseverywhere.com
 
 ## Which is that project that I would like to see grow up?
 Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
-I love this kind of games, and I want mine game. I hope to give you more details here ASAP.
+I love this kind of games, and I want my game. I hope to give you more details here ASAP.
 
 ## Something more?
-* I'm super sociable. My only concern is that sometimes the English block me, but that's an easy win-fix.
+* I'm super sociable.
 * #trekking, #beer, #snowboard, #diving,
-* Music: I love The Smiths, 60ish, 70ish and 80ish, Los Abuelos de la Nada, Cerati and more!
-* I love traveling, a lot. Maybe more that I should love it :P
+* Music: I love The Smiths, 60ish, 70ish and 80ish.
+* I love traveling, a lot.
 * Sometimes I take courage and give tech talks ([React + Firebase (hosting & authentication) live demo](firebase.jpg) and [React + Fiber (What's new?) live demo](react-fiber.jpg)).
