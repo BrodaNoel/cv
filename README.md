@@ -102,20 +102,12 @@ This stack was super productive for me until 2017, moment where I found React an
 * Is there a monster? (those ugly-legacy-projects that nobody wants to touch). Will I work on it? Which technologies are using there?
 * What kind of tasks will I be working? Bug-fixing? New Features?
 
-## What do I offer?
-As you can see I'm looking for a "perfect job", so I have to give you something to let you know that "me" is what you need. This is what I offer:
-
-**One week coding "for free"**. If after that week you feel that I was productive, I added value to your project, I fit with your company culture, and I worth it, you pay me that week, then you define a final $ proposal and let's negotiate about it.
-
-In another hand, if you feel I'm not worth it, **you don't pay me**.
-Obviously this free week will help me to see if I really like to work in your company, so it's a win-win.
-
 ## How much time I spend coding?
 Well... This is something that I really want to highlight.
 
 After my first line of code, I spend my whole life doing it. I just spend a couple of minutes thinking about it, and (proud) I guess after 2008 I spend between 4 and 8 hours per day coding in personal projects. All days. If you add the working hours coding, that number will be insane.
 
-## Places where I worked?
+## Companies where I worked?
 * Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
 * CIDS UTN. ~2 years working as .NET developer, doing frontend stufs. (It's kind of software factory, inside a university)
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
