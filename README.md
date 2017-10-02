@@ -112,6 +112,7 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * React-Native
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
+* Flow
 
 ## Some of my proud
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished, but nice experience with React-Native.
