@@ -25,13 +25,13 @@ As you can see, this is a "perfect job". Meaning, you can offer something that d
 ## Languages
 * Spanish - Native speaker
 * English
-  * Writing: I have no problems to chat and keep a written communication. In my last 6 years I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
-  * Speaking & Listening: When talking about technical stufs, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but not a big deal.
+  * Writing: I have no problems to chat and keep a written communication. In my last 6 years, I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
+  * Speaking & Listening: When talking about technical stuff, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but not a big deal.
 
 ## Contact
 Mail to brodanoel@gmail.com.
 
-Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. If not, I'll move the email to SPAM folder (but, before doing it, I'll read it).
+Please, on the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. If not, I'll move the email to SPAM folder (but, before doing it, I'll read it).
 
 ## Do you want to stalk a little bit?
 * GitHub #1: @BrodaNoel (for personal projects)
@@ -41,7 +41,7 @@ Please, in the subject, add `[Remote Work]`, for example: `[Remove Work] Proposa
 * Facebook: @BrodaNoel (a little bit about me)
 * Spotify: @BrodaNoel (a little bit about music I like)
 
-Yeah... You can find me in everyplace just looking for "BrodaNoel".
+Yeah... You can find me in every place just looking for "BrodaNoel".
 
 ## A bit of my history
 From 2007 to 2010 I was working creating PHP sites and VB.NET programs just for fun. But then, in 2010, I started working on the IT World.
@@ -61,7 +61,7 @@ Then, I left my happy PHP-life and I started working using another stack:
 * NodeJS + Express + MongoDB
 * AngularJS
 
-This stack was super productive for me until 2017, moment where I found React and Firebase. So now, my stack for personal projects has this shape:
+This stack was super productive for me until 2017, the moment where I found React and Firebase. So now, my stack for personal projects has this shape:
 * GIT
 * Firebase Hosting for static serving
 * Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
@@ -70,11 +70,11 @@ This stack was super productive for me until 2017, moment where I found React an
 ^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
 ## Companies where I worked?
-* Home. The best place to improve knowledge randomly. I'm always working in personal projects to improve knowledge in different technologies.
-* CIDS UTN. ~2 years working as .NET developer, doing frontend stufs. (It's kind of software factory, inside a university)
+* Home. The best place to improve knowledge randomly. I'm always working on personal projects to improve knowledge in different technologies.
+* CIDS UTN. ~2 years working as .NET developer, doing frontend stuff. (It's kind of software factory, inside a university)
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
-* Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working at Disney projects.
-* Olapic. ~2 years (currenlty working here). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working in the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
+* Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working on Disney projects.
+* Olapic. ~2 years (currently working here). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working on the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
 
 So, as you can see, I worked at University, Government, Huge public company and Startups.
 
@@ -116,17 +116,17 @@ So, as you can see, I worked at University, Government, Huge public company and 
 
 ## Some of my proud
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished, but nice experience with React-Native.
-* [Bropy](https://github.com/BrodaNoel/bropy): Project adminsitrator to create generic drivers for RaspberryPi components. Funny project!
+* [Bropy](https://github.com/BrodaNoel/bropy): Project administrator to create generic drivers for RaspberryPi components. Funny project!
 * Twibro (private): Project full of Node and MongoDB. Using Twitter API to look for tweets with geolocation, useful to understand where (geolocalization) is the people that is tweeting about some hashtag. ([screenshot](./twibro.png))
 * [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and more.
 * [Firebase-Test](https://github.com/BrodaNoel/firebase-tests): In progress. Project created just to improve knowledge in Firebase.
 * [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
 * [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
 * [SVG-2-image](https://github.com/BrodaNoel/svg-2-image): Export a SVG html element as a image.
-* [D3-to-image](https://github.com/BrodaNoel/d3-to-image): Implementation of `svg-2-image` dedicated to D3 in AngularJS (and more... I'll be adding more libraries in a future).
+* [D3-to-image](https://github.com/BrodaNoel/d3-to-image): Implementation of `svg-2-image` dedicated to D3 in AngularJS (and more... I'll be adding more libraries in the future).
 
 ## Which is that project that I would like to see grow up?
-Oh yeah! This project has name, and some basic designs. Not published yet, but basically it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
+Oh yeah! This project has a name and some basic designs. Not published yet, but basically, it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
 I love this kind of games, and I want my game. I hope to give you more details here ASAP.
 
 ## Something more?
