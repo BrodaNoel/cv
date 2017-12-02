@@ -1,14 +1,11 @@
 # Broda Noel - CV
 
 ## What I'm looking for?
-I want to travel, I want to work and travel at the same time, working 100% remotely.
+I want to work and travel at the same time. Work remotely, managing my schedule. So, flexible hours are crucial.
 
-I prefer to work with people that love the product we are creating, putting a lot of effort to improve what we are creating. People that really love coding.
-I want to travel while I'm working. Flexible hours and flexible days will be a must. I want to manage my own schedule.
+I prefer (but it's not a "must") to work in a small Startup just because there is easier to find the "family feeling" between the people, and between the people and the product/service they are building together.
 
-As you can see, this is a "perfect job". Meaning, you can offer something that do not full fill this points. We can negotiate it.
-
-> Note: I want to continue working in JavaScript. I prefer frontend, but backend using Express could be a good option.
+> Note: I want to continue working in JavaScript. I prefer frontend, but backend using Node could be a good option.
 
 ## Glad to work with
 * React
@@ -19,8 +16,9 @@ As you can see, this is a "perfect job". Meaning, you can offer something that d
 * Reselect
 * Firebase
 * Webpack
-* AngularJS (1.x) (no experience in Angular > 1, but, it could be an option)
+* AngularJS (1.x) (no experience in Angular >= 2, but, it could be an option)
 * Sass
+* Vue (but I have no experience here)
 
 ## Languages
 * Spanish - Native speaker
@@ -31,15 +29,12 @@ As you can see, this is a "perfect job". Meaning, you can offer something that d
 ## Contact
 Mail to brodanoel@gmail.com.
 
-Please, on the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. If not, I'll move the email to SPAM folder (but, before doing it, I'll read it).
+Please, on the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. That will give me the idea you read all my CV :)
 
 ## Do you want to stalk a little bit?
-* GitHub #1: @BrodaNoel (for personal projects)
-* GitHub #2: @NoelBroda (to use in the company where I work)
+* GitHub: @BrodaNoel (for personal projects)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
-* Medium: @BrodaNoel (a little bit about my last experiences)
-* Facebook: @BrodaNoel (a little bit about me)
-* Spotify: @BrodaNoel (a little bit about music I like)
+* Medium: @BrodaNoel
 
 Yeah... You can find me in every place just looking for "BrodaNoel".
 
@@ -47,7 +42,7 @@ Yeah... You can find me in every place just looking for "BrodaNoel".
 From 2007 to 2010 I was working creating PHP sites and VB.NET programs just for fun. But then, in 2010, I started working on the IT World.
 My first work was at [UTN University](http://www.frc.utn.edu.ar/), doing backend in VB.NET and frontend using Vanilla JavaScript and jQuery.
 
-From 2010 to 2015 I always worked in personal (and freelance) projects using always the same technologies (creating and setting up absolutely everything on my own).
+From 2010 to 2015 I always worked in personal (and freelance) projects always using the same technologies (creating and setting up absolutely everything on my own).
 * Debian
 * SVN
 * Apache
@@ -70,11 +65,12 @@ This stack was super productive for me until 2017, the moment where I found Reac
 ^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
 ## Companies where I worked?
-* Home. The best place to improve knowledge randomly. I'm always working on personal projects to improve knowledge in different technologies.
+* Home. The best place to improve knowledge randomly. I'm 
+working on personal projects to improve knowledge in different technologies.
 * CIDS UTN. ~2 years working as .NET developer, doing frontend stuff. (It's kind of software factory, inside a university)
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
 * Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working on Disney projects.
-* Olapic. ~2 years (currently working here). Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working on the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
+* Olapic. ~2 years. Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working on the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
 
 So, as you can see, I worked at University, Government, Huge public company and Startups.
 
