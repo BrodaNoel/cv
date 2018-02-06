@@ -1,11 +1,17 @@
 # Broda Noel - CV
 
+## Who I am?
+I'm a **full stack developer**, with ReactJS or AngularJS and NodeJS.
+
+I do really love to code. I started coding when I was ~15 years old. So, I do really love what I do, and I do it with passion.
+Just give me features, bugs, and give me the freedom to be involved in the process, and then we'll be happy.
+
+I love to broadcast my knowledge, writing Medium.com articles (currenlty, creating a course for Udemy.com), creating guides or helping people in companies where I work. I like to be involved in the team/product/projects/company where I work, so, a fluid comunication between us will be appreciable.
+
 ## What I'm looking for?
-I want to work and travel at the same time. Work remotely, managing my schedule. So, flexible hours are crucial.
+I want to work remotely, managing my schedule. So, flexible hours are crucial.
 
 I prefer (but it's not a "must") to work in a small Startup just because there is easier to find the "family feeling" between the people, and between the people and the product/service they are building together.
-
-> Note: I want to continue working in JavaScript. I prefer frontend, but backend using Node could be a good option.
 
 ## Glad to work with
 * React
@@ -18,7 +24,9 @@ I prefer (but it's not a "must") to work in a small Startup just because there i
 * Webpack
 * AngularJS (1.x) (no experience in Angular >= 2, but, it could be an option)
 * Sass
-* Vue (but I have no experience here)
+* Vue (but I have no experience here, it could be an option)
+* GraphQL
+* NodeJS
 
 ## Languages
 * Spanish - Native speaker
@@ -36,7 +44,7 @@ Please, on the subject, add `[Remote Work]`, for example: `[Remove Work] Proposa
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
 * Medium: @BrodaNoel
 
-Yeah... You can find me in every place just looking for "BrodaNoel".
+As you can see, you can find me in every place just looking for "BrodaNoel".
 
 ## A bit of my history
 From 2007 to 2010 I was working creating PHP sites and VB.NET programs just for fun. But then, in 2010, I started working on the IT World.
@@ -56,21 +64,22 @@ Then, I left my happy PHP-life and I started working using another stack:
 * NodeJS + Express + MongoDB
 * AngularJS
 
-This stack was super productive for me until 2017, the moment where I found React and Firebase. So now, my stack for personal projects has this shape:
+This stack was super productive for me until 2017, the moment where I found React and Firebase. So now, my stack for personal projects have this shape:
 * GIT
 * Firebase Hosting for static serving
 * Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
 * React (+JSX) + Redux + Thunks + Reselect as frontend
+* NodeJS and Express as backend
 
-^ This is my current Stack. REST API, frontend with React and Backend using Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
+^ This is my current Stack. REST API, frontend with React and Backend using Node + Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
 ## Companies where I worked?
-* Home. The best place to improve knowledge randomly. I'm 
-working on personal projects to improve knowledge in different technologies.
+* Home. The best place to improve knowledge randomly. I'm working on personal projects to improve knowledge in different technologies.
 * CIDS UTN. ~2 years working as .NET developer, doing frontend stuff. (It's kind of software factory, inside a university)
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
 * Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working on Disney projects.
 * Olapic. ~2 years. Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working on the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
+* Santex. Currently working here.
 
 So, as you can see, I worked at University, Government, Huge public company and Startups.
 
@@ -109,6 +118,7 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
 * Flow
+* GraphQL
 
 ## Some of my proud
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished, but nice experience with React-Native.
