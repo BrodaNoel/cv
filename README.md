@@ -79,7 +79,8 @@ This stack was super productive for me until 2017, the moment where I found Reac
 * Loteria de Cordoba. ~2 years working as full stack (SQL, PHP, Vanilla JavaScript). Government company.
 * Globant. ~2 years. Huge public software company. Frontend developer (PHP and AngularJS). Working on Disney projects.
 * Olapic. ~2 years. Startup. Working as frontend dev (AngularJS and Vanilla JavaScript), working on the Analytics team. (creating dashboards and those stufs). Company currently took over by Monotype.
-* Santex. Currently working here.
+* Santex. ~6 months.
+* Currently: Freelance ❤️
 
 So, as you can see, I worked at University, Government, Huge public company and Startups.
 
