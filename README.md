@@ -37,7 +37,7 @@ I prefer (but it's not a "must") to work in a small Startup just because there i
 ## Contact
 Mail to brodanoel@gmail.com.
 
-Please, on the subject, add `[Remote Work]`, for example: `[Remove Work] Proposal from X company`. That will give me the idea you read all my CV :)
+Please, on the subject, add `[Remote Work]`, for example: `[Remote Work] Proposal from X company`. That will give me the idea you read all my CV :)
 
 ## Do you want to stalk a little bit?
 * GitHub: @BrodaNoel (for personal projects)
