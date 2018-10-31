@@ -145,3 +145,4 @@ I love this kind of games, and I want my game. I hope to give you more details h
   * [React + Firebase (hosting & authentication) live demo](firebase.jpg)
   * [React + Fiber (What's new?)](react-fiber.jpg)
   * Hack(at)ONG - (hackathon) [Photo 1](hackatong.jpg) and [Photo 2](hackatong2.jpg)
+  * [`NOFI*`](https://www.meetup.com/es/Beer-js-Cordoba/events/252125977/) [Photo 1](NOFI.jpg)
