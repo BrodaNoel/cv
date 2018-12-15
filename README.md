@@ -120,6 +120,7 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * Firebase
 * Flow
 * GraphQL
+* JWT
 
 ## Some of my proud
 * [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished, but nice experience with React-Native.
