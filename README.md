@@ -1,38 +1,29 @@
 # Broda Noel - CV
 
 ## Who I am?
-I'm a **full stack developer**, with ReactJS or AngularJS and NodeJS.
+I'm a **full stack developer**, with ReactJS and NodeJS.
 
-I do really love to code. I started coding when I was ~15 years old. So, I do really love what I do, and I do it with passion.
-Just give me features, bugs, and give me the freedom to be involved in the process, and then we'll be happy.
+I do really love to code.
 
-I love to broadcast my knowledge, writing Medium.com articles (currenlty, creating a course for Udemy.com), creating guides or helping people in companies where I work. I like to be involved in the team/product/projects/company where I work, so, a fluid comunication between us will be appreciable.
+I started coding when I was ~15 years old. So, I do really love what I do (which is important to do a good job).
 
 ## What I'm looking for?
 I want to work remotely, managing my schedule. So, flexible hours are crucial.
 
-I prefer (but it's not a "must") to work in a small Startup just because there is easier to find the "family feeling" between the people, and between the people and the product/service they are building together.
+I prefer (but it's not a "must") to work in a small Startup, just because it is easier to find the "family feeling" between people, and the product they are building together.
 
 ## Glad to work with
 * React
-* JSX
+* React Native
 * Redux
-* Flow
-* Thunks
-* Reselect
 * Firebase
-* Webpack
-* AngularJS (1.x) (no experience in Angular >= 2, but, it could be an option)
-* Sass
-* Vue (but I have no experience here, it could be an option)
-* GraphQL
 * NodeJS
 
 ## Languages
 * Spanish - Native speaker
 * English
-  * Writing: I have no problems to chat and keep a written communication. In my last 6 years, I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC and Orlando)
-  * Speaking & Listening: When talking about technical stuff, I have no problem, but, I feel like my vocabulary is not big as I would like it to be, so sometimes, in small talks or non-technical-talks, I find myself stuck, but not a big deal.
+  * Writing: I have no problems to chat and keep a written communication. In my last 8 years, I have been working using JIRA and talking by chat to keep my team in sync. (coworkers mainly from NYC, Orlando, and Boston)
+  * Speaking & Listening: Regarding technical stuff, I have no problem to talk, but, regarding non-technical-talks, some times my vocabulary is not helping al lot (thing that I'm improving every day, doing trips to USA).
 
 ## Contact
 Mail to brodanoel@gmail.com.
@@ -43,8 +34,6 @@ Please, on the subject, add `[Remote Work]`, for example: `[Remote Work] Proposa
 * GitHub: @BrodaNoel (for personal projects)
 * Instagram: @BrodaNoel (a little bit about my life, friends, and trips)
 * Medium: @BrodaNoel
-
-As you can see, you can find me in every place just looking for "BrodaNoel".
 
 ## A bit of my history
 From 2007 to 2010 I was working creating PHP sites and VB.NET programs just for fun. But then, in 2010, I started working on the IT World.
@@ -68,10 +57,9 @@ This stack was super productive for me until 2017, the moment where I found Reac
 * GIT
 * Firebase Hosting for static serving
 * Firebase Functions and Firebase Database for no-sql database and backend (creating some kind of REST API in Firebase Functions)
-* React (+JSX) + Redux + Thunks + Reselect as frontend
+* React as frontend
+* React Native as mobile development for Android and iOS
 * NodeJS and Express as backend
-
-^ This is my current Stack. REST API, frontend with React and Backend using Node + Express + NoSQL & Non-Relational-DB (like Mongo). Full ECMAScript stack.
 
 ## Companies where I worked?
 * Home. The best place to improve knowledge randomly. I'm working on personal projects to improve knowledge in different technologies.
@@ -115,31 +103,19 @@ So, as you can see, I worked at University, Government, Huge public company and 
 * MongoDB
 * RaspberryPi (This Rocks!)
 * React
-* React-Native
+* React Native
 * React + Redux + Thunks + Reselect + Flow
 * Firebase
 * Flow
 * GraphQL
 * JWT
 
-## Some of my proud
-* [Brodio](https://github.com/BrodaNoel/brodio): Project to learn about React-Native. Never finished, but nice experience with React-Native.
-* [Bropy](https://github.com/BrodaNoel/bropy): Project administrator to create generic drivers for RaspberryPi components. Funny project!
-* Twibro (private): Project full of Node and MongoDB. Using Twitter API to look for tweets with geolocation, useful to understand where (geolocalization) is the people that is tweeting about some hashtag. ([screenshot](./twibro.png))
-* [DevsEverywhere](https://github.com/BrodaNoel/devseverywhere): Project to learn more about React, Redux, and more.
-* [Firebase-Test](https://github.com/BrodaNoel/firebase-tests): In progress. Project created just to improve knowledge in Firebase.
-* [StreamingJS](https://github.com/BrodaNoel/streamingjs): In progress. Using WebRTC to create P2P video conferences.
-* [React-Agthy](https://github.com/BrodaNoel/react-agthy): React component to get user feedback in your website
-* [SVG-2-image](https://github.com/BrodaNoel/svg-2-image): Export a SVG html element as a image.
-* [D3-to-image](https://github.com/BrodaNoel/d3-to-image): Implementation of `svg-2-image` dedicated to D3 in AngularJS (and more... I'll be adding more libraries in the future).
-
-## Which is that project that I would like to see grow up?
-Oh yeah! This project has a name and some basic designs. Not published yet, but basically, it's a game, a on-off-line game, like [oGame](https://en.ogame.gameforge.com).
-I love this kind of games, and I want my game. I hope to give you more details here ASAP.
+## Some of my projects
+* [NoFilter app](https://getnofilter.com/): 100% developed by me. Backend, Frontend, Mobile app, etc.
 
 ## Something more?
 * I'm super sociable.
-* #trekking, #beer, #snowboard, #diving,
+* #trekking, #beer, #snowboard, #scubadiving, #sailing
 * Music: I love The Smiths, 60ish, 70ish and 80ish.
 * I love traveling, a lot.
 * Sometimes I take courage and give tech talks
